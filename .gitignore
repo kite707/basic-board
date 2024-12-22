@@ -78,7 +78,7 @@ fabric.properties
 .idea/httpRequests
 
 # Android studio 3.1+ serialized cache file
-.idea/caches/build_file_checksums.ser
+.idea/caches/build_file_checksums.serf
 
 ### Intellij+all Patch ###
 # Ignore everything but code style settings and run configurations
@@ -220,4 +220,5 @@ gradle-app.setting
 # Java heap dump
 *.hprof
 
+application.yaml
 # End of https://www.toptal.com/developers/gitignore/api/java,gradle,intellij+all,windows,macos,visualstudiocode
